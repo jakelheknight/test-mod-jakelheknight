@@ -4,7 +4,7 @@
   "description": "Test Module to get a feel for making npm packages",
   "main": "index.js",
   "scripts": {
-    "test": "test/test.js"
+    "test": "mocha test/test.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jakelheknight/test-mod-jakelheknight#readme",
   "devDependencies": {
+    "chai": "^3.5.0",
     "mocha": "^3.2.0"
   }
 }
