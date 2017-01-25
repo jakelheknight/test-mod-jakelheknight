@@ -1,3 +1,5 @@
 moduel.exports = function( Name ) {
-    console.log("Hello " + Name + ".")
+    var message = "Hello " + Name + ".";
+    console.log("Hello " + Name + ".");
+    return message;
 }
