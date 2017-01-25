@@ -1,0 +1,23 @@
+{
+  "name": "test-mod-jakelheknight",
+  "version": "1.0.0",
+  "description": "Test Module to get a feel for making npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakelheknight/test-mod-jakelheknight.git"
+  },
+  "keywords": [
+    "jacob",
+    "Knight"
+  ],
+  "author": "jakelheknight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakelheknight/test-mod-jakelheknight/issues"
+  },
+  "homepage": "https://github.com/jakelheknight/test-mod-jakelheknight#readme"
+}
